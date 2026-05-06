@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nichtagentur.github.io/vakuumier-werkstatt/sitemap.xml
